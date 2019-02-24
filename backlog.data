@@ -9,3 +9,4 @@ c44423f4-61ff-455e-a347-b1cc131f9209
 {"description":"Get task sync working","entry":"20190224T031343Z","modified":"20190224T031343Z","status":"pending","uuid":"44188e76-1f99-4f2c-b37f-dead7e9df460"}
 {"description":"test task sync","entry":"20190224T032622Z","modified":"20190224T032622Z","status":"pending","uuid":"50a55e13-3927-4778-a7da-c05a192a62c2"}
 {"description":"Get task sync working","end":"20190224T032627Z","entry":"20190224T031343Z","modified":"20190224T032627Z","status":"completed","uuid":"44188e76-1f99-4f2c-b37f-dead7e9df460"}
+{"description":"test task sync","end":"20190224T032745Z","entry":"20190224T032622Z","modified":"20190224T032745Z","status":"completed","uuid":"50a55e13-3927-4778-a7da-c05a192a62c2"}

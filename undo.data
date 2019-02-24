@@ -182,3 +182,7 @@ time 1550978787
 old [description:"Get task sync working" entry:"1550978023" modified:"1550978023" status:"pending" uuid:"44188e76-1f99-4f2c-b37f-dead7e9df460"]
 new [description:"Get task sync working" end:"1550978787" entry:"1550978023" modified:"1550978787" status:"completed" uuid:"44188e76-1f99-4f2c-b37f-dead7e9df460"]
 ---
+time 1550978865
+old [description:"test task sync" entry:"1550978782" modified:"1550978782" status:"pending" uuid:"50a55e13-3927-4778-a7da-c05a192a62c2"]
+new [description:"test task sync" end:"1550978865" entry:"1550978782" modified:"1550978865" status:"completed" uuid:"50a55e13-3927-4778-a7da-c05a192a62c2"]
+---
