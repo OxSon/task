@@ -186,3 +186,6 @@ time 1550978865
 old [description:"test task sync" entry:"1550978782" modified:"1550978782" status:"pending" uuid:"50a55e13-3927-4778-a7da-c05a192a62c2"]
 new [description:"test task sync" end:"1550978865" entry:"1550978782" modified:"1550978865" status:"completed" uuid:"50a55e13-3927-4778-a7da-c05a192a62c2"]
 ---
+time 1550997162
+new [description:"practice rust" entry:"1550997162" modified:"1550997162" status:"pending" tags:"dev" uuid:"10c12720-9d24-440f-95b6-941c648cb4ef"]
+---
