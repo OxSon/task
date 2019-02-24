@@ -7,3 +7,5 @@ c44423f4-61ff-455e-a347-b1cc131f9209
 {"description":"drop-down dmenu-like but prettier?","end":"20190223T230911Z","entry":"20181028T045621Z","modified":"20190223T230911Z","status":"completed","tags":["arch","polybar"],"uuid":"b2dba1b3-7a55-42e5-b959-06b698f2c22c"}
 {"description":"suspend on lid-close","entry":"20190221T211743Z","modified":"20190224T024855Z","status":"pending","tags":["laptop"],"uuid":"247a7e29-9246-4541-acab-37e2b57f01fe"}
 {"description":"Get task sync working","entry":"20190224T031343Z","modified":"20190224T031343Z","status":"pending","uuid":"44188e76-1f99-4f2c-b37f-dead7e9df460"}
+{"description":"test task sync","entry":"20190224T032622Z","modified":"20190224T032622Z","status":"pending","uuid":"50a55e13-3927-4778-a7da-c05a192a62c2"}
+{"description":"Get task sync working","end":"20190224T032627Z","entry":"20190224T031343Z","modified":"20190224T032627Z","status":"completed","uuid":"44188e76-1f99-4f2c-b37f-dead7e9df460"}
