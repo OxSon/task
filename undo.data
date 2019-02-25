@@ -189,3 +189,7 @@ new [description:"test task sync" end:"1550978865" entry:"1550978782" modified:"
 time 1550997162
 new [description:"practice rust" entry:"1550997162" modified:"1550997162" status:"pending" tags:"dev" uuid:"10c12720-9d24-440f-95b6-941c648cb4ef"]
 ---
+time 1551108681
+old [description:"suspend on lid-close" entry:"1550783863" modified:"1550976535" status:"pending" tags:"laptop" uuid:"247a7e29-9246-4541-acab-37e2b57f01fe"]
+new [description:"suspend on lid-close" end:"1551108681" entry:"1550783863" modified:"1551108681" status:"completed" tags:"laptop" uuid:"247a7e29-9246-4541-acab-37e2b57f01fe"]
+---
