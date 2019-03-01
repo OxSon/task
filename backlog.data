@@ -16,3 +16,5 @@ c44423f4-61ff-455e-a347-b1cc131f9209
 {"description":"implement flag opts for load-colors.sh","entry":"20181028T170240Z","modified":"20181028T170240Z","status":"pending","tags":["arch"],"uuid":"b132107a-49cb-44ac-bb8b-04698b515f4b"}
 {"description":"practice rust","entry":"20190224T083242Z","modified":"20190224T083242Z","status":"pending","tags":["dev"],"uuid":"10c12720-9d24-440f-95b6-941c648cb4ef"}
 {"description":"suspend on lid-close","end":"20190225T153121Z","entry":"20190221T211743Z","modified":"20190225T153121Z","status":"completed","tags":["laptop"],"uuid":"247a7e29-9246-4541-acab-37e2b57f01fe"}
+{"description":"figure out irc","entry":"20190301T052639Z","modified":"20190301T052639Z","status":"pending","uuid":"12b4cc85-fc1d-4151-8774-e0ce16454dda"}
+{"description":"practice C","entry":"20190301T052642Z","modified":"20190301T052642Z","status":"pending","uuid":"bcd108aa-1f5e-4d72-b2b7-0d66000c5d36"}
